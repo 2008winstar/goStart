@@ -9,4 +9,6 @@ package packages
 
  * func Create(fileName string) (fileHandler, error)
  * fileHandler.WriteString(s string)
- */
+
+	godoc
+*/
